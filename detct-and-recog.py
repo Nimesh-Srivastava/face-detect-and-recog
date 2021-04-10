@@ -1,3 +1,11 @@
+'''
+LAB COMPONENT 08
+Submitted by - Nimesh Srivastava
+               19BAI10026
+
+For complete repository with encodings file, please refer - https://github.com/Nimesh-Srivastava/face-detect-and-recog
+'''
+
 from imutils import paths
 import face_recognition
 import pickle
